@@ -1,0 +1,51 @@
+*{
+	font-family:微軟正黑體;
+}
+html{
+	height:100%;
+}
+body{
+	height:100%;
+	background-color:lightblue;
+}
+input[type="text"],input[type="password"]{
+	line-height:30px;
+	height:30px;
+	margin:0px;
+}
+select{
+	margin:0px;
+}
+hr{
+	border-color:#eee;
+}
+.warp{
+	min-height:100%;
+}
+.fccc{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+}
+.fccr{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:row;
+}
+.f{
+		display:flex;
+}
+.j{
+	justify-content:center;
+}
+.a{
+	align-items:center;
+}
+.fc{
+	flex-direction:column;
+}
+.fr{
+	flex-direction:row;
+}
